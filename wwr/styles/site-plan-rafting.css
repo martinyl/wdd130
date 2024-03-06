@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=query=lato');
 
 body {
-    font-family: var(--paragraph-font);
+    font-family:query=lato, var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
 }
