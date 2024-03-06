@@ -7,18 +7,18 @@ body {
 }
 
 :root {
-    --primary-color: #xxxxxx;
-    --secondary-color: #xxxxxx;
-    --accent1-color: #xxxxxx;
-    --accent2-color: #xxxxxx;
+    --primary-color: #162521;
+    --secondary-color: #1e335a;
+    --accent1-color: #E4DFDA;
+    --accent2-color: #E1E5EE;
 
     --heading-font: 'query=lato', serif;
     --paragraph-font: 'query=lato', serif;
 
-    --nav-background-color: #xxxxxx;
-    --nav-link-color: #xxxxxx;
-    --nav-hover-link-color: #xxxxxx;
-    --nav-hover-background-color: #xxxxxx;
+    --nav-background-color: #E4DFDA;
+    --nav-link-color: #1e335a;
+    --nav-hover-link-color: #1e335a;
+    --nav-hover-background-color: #E4DFDA;
 }
 
 /* body {
