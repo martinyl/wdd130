@@ -1,5 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?query=lato'); second option (https://fonts.google.com/specimen/Indie+Flower) */
-@import url('https://fonts.googleapis.com/css2?family=font-name&family=optional-2nd-font-name&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=query=lato');
 
 body {
     font-family: var(--paragraph-font);
@@ -13,8 +12,8 @@ body {
     --accent1-color: #xxxxxx;
     --accent2-color: #xxxxxx;
 
-    --heading-font: '', serif;
-    --paragraph-font: '', serif;
+    --heading-font: 'query=lato', serif;
+    --paragraph-font: 'query=lato', serif;
 
     --nav-background-color: #xxxxxx;
     --nav-link-color: #xxxxxx;
