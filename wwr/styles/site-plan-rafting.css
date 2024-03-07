@@ -1,7 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?query=lato');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Rock+Salt&display=swap');
 
 body {
-    font-family:query=lato var(--paragraph-font);
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+body {
+    font-family: var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
 }
