@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=query=lato');
+@import url('https://fonts.googleapis.com/css2?query=lato');
 
 body {
-    font-family:query=lato, var(--paragraph-font);
+    font-family:query=lato var(--paragraph-font);
     max-width: 960px;
     padding: 20px;
 }
@@ -20,12 +20,6 @@ body {
     --nav-hover-link-color: #1e335a;
     --nav-hover-background-color: #E4DFDA;
 }
-
-/* body {
-    font-family: var(--paragraph-font);
-    max-width: 960px;
-    padding: 20px;
-} */
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
