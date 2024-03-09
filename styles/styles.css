@@ -60,3 +60,9 @@ footer {
     background-color: #ddd;
     color: #000;
 }
+
+aside h2 {
+    position: absolute;
+    bottom: 7px;
+    left: 77px;
+}
