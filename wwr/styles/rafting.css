@@ -32,14 +32,13 @@ header {
 main h1 {
     position: absolute;
     
-} */
+}
 
 .hero img {
 
     display: block;
     width: 100;
-    height: auto;
-    
+    height: auto;   
 }
   
 h1 {
@@ -49,8 +48,6 @@ h1 {
     left: 51%;
     transform: translate(-50%, -50%);
     color: whitesmoke;
-  
-
 }
 
 article img{
@@ -58,7 +55,6 @@ article img{
     position: relative;
     float: right;
     padding: 2rem
-
 }
 
 article{
